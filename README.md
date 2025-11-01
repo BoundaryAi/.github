@@ -15,7 +15,7 @@
 ## Hi there 👋
 Welcome to the BoundaryAI organization on GitHub!
 
-We build the **experience feedback platform** that automatically collects and analyzes feedback from every channel—turning complex voices into clear, actionable insights.
+We build the **experience feedback platform** that automatically collects and analyzes feedback from every channel-turning complex voices into clear, actionable insights.
 
 ## What lives here
 - Open resources, examples, and integrations for using BoundaryAI
@@ -41,7 +41,7 @@ We build the **experience feedback platform** that automatically collects and an
    → https://app.boundary-ai.com
 
 ## Who we work with
-We collaborate with leading universities, labs, and institutions—including **EPFL**, **Google Cloud**, **HEC Montréal/Tech3Lab**, **Innosuisse**, and **McGill**—to validate models, run rigorous studies, and scale responsibly.
+We collaborate with leading universities, labs, and institutions including **EPFL**, **Google Cloud**, **HEC Montréal/Tech3Lab**, **Innosuisse**, and **McGill** to validate models, run rigorous studies, and scale responsibly.
 
 ## They mentioned us
 - **EPFL Investor Day 2024**: BoundaryAI participant profile
